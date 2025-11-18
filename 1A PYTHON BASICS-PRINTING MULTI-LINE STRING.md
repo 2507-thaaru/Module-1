@@ -11,24 +11,14 @@ To create a Python program to print the string in multiple lines using triple qu
 
 ## PROGRAM
 ```python
-# Reg.No-
-# Name-
-# Write your code here
+men_stepped_on_the_moon=input()
 
-string_single_quotes = '''I am a string literal
-... has more than one
-... line
-... placed inside triple single quotes'''
+print(men_stepped_on_the_moon)
 
-string_double_quotes = """I am a string literal
-... has more than one
-... line
-... placed inside triple double quotes"""
-
-print(string_single_quotes)
-print(string_double_quotes)
 ```
 ## OUTPUT
+<img width="856" height="201" alt="Screenshot 2025-11-18 at 10 33 05 AM" src="https://github.com/user-attachments/assets/7ca77b2d-1c8d-4ce4-8742-f6b953dc5f4b" />
 
 ## RESULT
+program executed successfully
 
