@@ -28,7 +28,7 @@ else:
 
 ## OUTPUT
 
-<img width="754" height="347" alt="image" src="https://github.com/user-attachments/assets/faf8d2b1-ab03-4804-8287-577aaed64242" />
+<img width="437" height="235" alt="image" src="https://github.com/user-attachments/assets/4b24ed51-1ba8-48b8-98a5-4b87f41a9fc8" />
 
 
 ## RESULT
